@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94ab26e759b1f0ac9e2aeecb9e9a3160",
+    "revision": "4e5612d4dd18606ab7b8d257834b865a",
     "url": "/task-one-change-colour/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/task-one-change-colour/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "c5d40031168fc87ea6ca",
+    "revision": "058fa762d9470f033d5b",
     "url": "/task-one-change-colour/static/css/main.34de6062.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/task-one-change-colour/static/js/2.10f73c9b.chunk.js"
   },
   {
-    "revision": "c5d40031168fc87ea6ca",
-    "url": "/task-one-change-colour/static/js/main.127617f0.chunk.js"
+    "revision": "058fa762d9470f033d5b",
+    "url": "/task-one-change-colour/static/js/main.49fb0e04.chunk.js"
   },
   {
     "revision": "2a23c60a928591d39ca3",

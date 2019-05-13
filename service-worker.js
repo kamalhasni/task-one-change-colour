@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/task-one-change-colour/precache-manifest.43ac4958f57e2425cf75ab0967ec2c50.js"
+  "/task-one-change-colour/precache-manifest.b29fbb57ea8eafe8eefc6e7801a042c2.js"
 );
 
 self.addEventListener('message', (event) => {
