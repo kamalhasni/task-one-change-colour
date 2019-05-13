@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8a9f57a4e17f15e0cb806115c2e7e3e",
+    "revision": "1b94b882bdaf287b207d84493d210ede",
     "url": "/task-one-change-colour/index.html"
   },
   {
-    "revision": "cdce94e547be5875420d",
+    "revision": "3e3c6fb4e23da5375891",
     "url": "/task-one-change-colour/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "65a0091462bb619b6675",
+    "revision": "5963eb184bde7b8dfd9e",
     "url": "/task-one-change-colour/static/css/main.34de6062.chunk.css"
   },
   {
-    "revision": "cdce94e547be5875420d",
-    "url": "/task-one-change-colour/static/js/2.f6388b52.chunk.js"
+    "revision": "3e3c6fb4e23da5375891",
+    "url": "/task-one-change-colour/static/js/2.40cac05e.chunk.js"
   },
   {
-    "revision": "65a0091462bb619b6675",
-    "url": "/task-one-change-colour/static/js/main.c2383a3d.chunk.js"
+    "revision": "5963eb184bde7b8dfd9e",
+    "url": "/task-one-change-colour/static/js/main.26437cb5.chunk.js"
   },
   {
     "revision": "2a23c60a928591d39ca3",
