@@ -1,12 +1,31 @@
 import React from 'react';
-import Content from './components/structure/content';
+import Home from './components/Home'
+import ColourChange from './components/tasks/task-one/change-colour'
+import TaskTwoMain from './components/tasks/task-two/Main'
+import Display from './components/tasks/task-two/Display'
+import { Switch, Route, BrowserRouter as Router } from 'react-router-dom'
+import NavBar from './components/NavBar'
+import Error404 from './components/Errors/Error404'
 
 class App extends React.Component {
   render() {
     return (
-      <div>
-        <Content />
-      </div>
+        <div className="container-scroller">
+          <Router>
+            <NavBar />
+            <div className="container mt-5">
+              <Switch>
+                <Route path="/" exact component={Home} />
+                <Route path="/task-one" component={ColourChange} />
+                <Route path="/task-two" exact component={TaskTwoMain} />
+                <Route path="/task-two/coloring/:colorKey" component={Display}/>
+                <Route path="/task-two/coloring" exact component={Display}/>
+                <Route path="/task-two/show-text/:text" component={Display}/>
+                <Route component={Error404} />
+              </Switch>
+            </div>
+          </Router>
+        </div>
     );
   }
 }

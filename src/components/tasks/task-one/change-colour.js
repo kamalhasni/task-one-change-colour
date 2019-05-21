@@ -1,6 +1,6 @@
 import React from 'react'
 import { Button } from 'reactstrap';
-import ModalColour from './components/tasks/task-one/modal';
+import ModalColour from './modal';
 
 class ColourChange extends React.Component {
   constructor(props) {
