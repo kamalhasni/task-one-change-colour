@@ -5,6 +5,9 @@ export default [{
   key: 'danger',
   value: 'Red'
 }, {
+  key: 'success',
+  value: 'Green'
+}, {
   key: 'warning',
   value: 'Yellow',
   requireDarkBg: true

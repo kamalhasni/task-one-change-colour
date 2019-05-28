@@ -10,4 +10,10 @@ export default [{
   description: 'Routing to another page which shows color name',
   url: '/task-two',
   img: 'https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/c2/4b/44/c24b440f-2e19-6759-c715-04384aca18fa/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/1200x630wa.png'
+}, {
+  id: 3,
+  name: 'Task #3',
+  description: 'Redux',
+  url: '/task-three',
+  img: 'https://cdn-images-1.medium.com/max/1200/1*dlapmYAhWBkrFuHm020qlg.png'
 }]
